@@ -1,9 +1,12 @@
 
-Team Name: Team Artemis
-Team Members: 
-Akshita Jain
-Jinal Patel
-Sravan Sushama Raveendran
+## Team
+
+**Team Name:** Team Artemis  
+
+**Members:**
+- Akshita Jain  
+- Jinal Patel  
+- Sravan Sushama Raveendran  
 
 # GreenProcure-AI
 AI-powered platform that helps companies make sustainable procurement decisions in real time. It detects hidden emissions, recommends greener suppliers, and provides a strategic mix of Reduce, Offset, and Own actions to drive measurable climate impact.
