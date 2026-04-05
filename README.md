@@ -7,6 +7,8 @@ AI-powered platform that helps companies make sustainable procurement decisions 
 https://greenleap-ai-engine.lovable.app
 ## Pitch Deck
 [View Presentation](https://docs.google.com/presentation/d/1H2jH5_IasknX6SpLcB0x9cN3CAacXZBQ/edit?usp=sharing&ouid=110062034105055708461&rtpof=true&sd=true)
+## Detailed Write-up
+[Read Full Explanation](https://docs.google.com/document/d/1LWouIbmLHPN8VrLWeExycgDdOoA8DLIH/edit?usp=sharing&ouid=110062034105055708461&rtpof=true&sd=true)
 ## Problem
 Companies lack real-time visibility into procurement emissions and rely on carbon credits after decisions are made.
 
