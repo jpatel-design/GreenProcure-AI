@@ -1,6 +1,4 @@
 
-## Team
-
 **Team Name:** Team Artemis  
 
 **Members:**
